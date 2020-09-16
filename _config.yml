@@ -15,6 +15,7 @@ defaults:
     values:
       title: PSGruss
 
+description: Welcome to the Gruss Tech Zone
 author:
   name: John Gruss
   email: john.gruss.4@gmail.com
