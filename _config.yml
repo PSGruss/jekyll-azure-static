@@ -6,7 +6,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: PSGruss
 google_analytics: PSGruss
-title: PSGruss
+title: Gruss Tech Zone
 
 defaults:
   -
