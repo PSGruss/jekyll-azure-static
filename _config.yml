@@ -13,7 +13,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: PSGruss
+      title: Gruss Tech Zone
 
 description: Welcome to the Gruss Tech Zone
 author:
