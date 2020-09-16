@@ -18,7 +18,6 @@ defaults:
     values:
       title: dbyll
 
-description: Stylish Jekyll Theme
 author:
   name: dbyll
   email: dbyll@ismaildemirbilek.com
