@@ -16,6 +16,8 @@ defaults:
       title: Gruss Tech Zone
 
 description: Welcome to the Gruss Tech Zone
+base_url: /
+url: https://test.gruss.cloud
 author:
   name: John Gruss
   email: john.gruss.4@gmail.com
